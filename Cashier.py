@@ -37,3 +37,4 @@ else:
 
 # Display the total amount due
 print("Your total amount due is: ", amount_due)
+
